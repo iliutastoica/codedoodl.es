@@ -49,7 +49,7 @@
     "request": "^2.53.0",
     "rimraf": "^2.2.8",
     "underscore": "~1.7.0",
-    "winston": "~0.7.3",
+    "winston": "~3.3.0",
     "wrench": "^1.5.8"
   },
   "devDependencies": {
